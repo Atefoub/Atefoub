@@ -1,5 +1,3 @@
-# Atefoub ✨
-
 # Antoine Mourin
 
 🎓 Comptable expérimenté en reconversion vers le développement informatique, je suis actuellement en formation **TP - Concepteur Développeur d’Applications** chez [Ada Tech School Nantes](https://adatechschool.fr/) (du 29/09/2025 au 18/08/2026).
