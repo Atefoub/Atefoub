@@ -18,8 +18,7 @@
 ## 🌱 Fun facts
 
 🤹‍♂️ Je suis **jongleur**, passionné par le **siteswap**, un système mathématique fascinant pour décrire les figures de jonglage.  
-🏓 Je joue au **tennis de table** depuis plusieurs années, un sport qui m’apprend la précision et la réactivité.  
-🃏 Il m’arrive de jouer au **poker**, pour le plaisir de la stratégie et de la lecture du jeu.
+🏓 Je joue au **tennis de table** depuis plusieurs années, un sport qui m’apprend la précision et la réactivité.
 
 ---
 
