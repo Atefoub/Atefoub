@@ -43,6 +43,9 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -50,6 +53,10 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img alt="Recharts" src="https://img.shields.io/badge/Recharts-38B2AC?style=flat&logo=recharts&logoColor=white" />
+
 </div>
 </div>
 </td>
