@@ -1,15 +1,15 @@
 # Antoine Mourin
 
-🎓 Comptable expérimenté en reconversion vers le développement informatique, je suis actuellement en formation **TP - Concepteur Développeur d’Applications** chez [Ada Tech School Nantes](https://adatechschool.fr/) (du 29/09/2025 au 18/08/2026).
+🎓 Comptable expérimenté en reconversion vers le développement informatique, je suis actuellement en formation **TP - Concepteur Développeur d'Applications** chez [Ada Tech School Nantes](https://adatechschool.fr/) (du 29/09/2025 au 18/08/2026).
 
-💡 Passionné par l’optimisation des processus et les outils numériques, j’ai commencé à coder pour automatiser des tâches comptables. Aujourd’hui, je me consacre pleinement à la création de solutions innovantes et au développement d’applications.
+💡 Passionné par l'optimisation des processus et les outils numériques, j'ai commencé à coder pour automatiser des tâches comptables. Aujourd'hui, je me consacre pleinement à la création de solutions innovantes et au développement d'applications.
 
 ---
 
 ## 🎯 Mes objectifs
 
 - Développer des applications utiles et accessibles  
-- Contribuer à des projets open source liés à la gestion ou à l’éducation  
+- Contribuer à des projets open source liés à la gestion ou à l'éducation  
 - Créer un portfolio de projets concrets pendant ma formation  
 - Rejoindre une équipe tech où je pourrai combiner rigueur comptable et créativité numérique  
 
@@ -18,7 +18,7 @@
 ## 🌱 Fun facts
 
 🤹‍♂️ Je suis **jongleur**, passionné par le **siteswap**, un système mathématique fascinant pour décrire les figures de jonglage.  
-🏓 Je joue au **tennis de table** depuis plusieurs années, un sport qui m’apprend la précision et la réactivité.
+🏓 Je joue au **tennis de table** depuis plusieurs années, un sport qui m'apprend la précision et la réactivité.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-> 🚀 “La rigueur du chiffre, la créativité du code.”
+> 🚀 "La rigueur du chiffre, la créativité du code."
 
 ## 🛠️🤝 Compétences 
 <table><tr>
@@ -52,6 +52,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
@@ -64,9 +65,9 @@
 <h3>🤝 Compétences</h3>
 <ul>
 <li>Communication</li>
-<li>Travail d’équipe</li>
+<li>Travail d'équipe</li>
 <li>Résolution de problèmes</li>
-<li>Esprit d’analyse</li>
+<li>Esprit d'analyse</li>
 <li>Créativité</li>
 <li>Adaptabilité</li>
 </ul>
