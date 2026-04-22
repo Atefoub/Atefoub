@@ -32,15 +32,26 @@
 
 > 🚀 "La rigueur du chiffre, la créativité du code."
 
-## 📊 Statistiques GitHub
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atefoub&show_icons=true&theme=tokyonight)
+      <!-- Tableau / contenu de gauche -->
+      <h3>📊 Statistiques GitHub</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Atefoub&show_icons=true&theme=tokyonight" />
 
+    </td>
+    <td style="vertical-align: top;">
 
+      <!-- Tableau / contenu de droite -->
+      <h3>🔥 Langages les plus utilisés</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atefoub&layout=compact&theme=tokyonight" />
 
-
-
+    </td>
+  </tr>
+</table>
 ## 🛠️🤝 Compétences 
+
 <table><tr>
 <td>
 <h3>🛠️ Compétences</h3>
