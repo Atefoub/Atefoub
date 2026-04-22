@@ -32,9 +32,10 @@
 
 > 🚀 "La rigueur du chiffre, la créativité du code."
 
-## 📊 Mon activité GitHub
+## 📊 Statistiques GitHub
 
-![Metrics](https://metrics.lecoq.io/Atefoub?template=classic&languages=1&isocalendar=1&followup=1&achievements=1&lines=1)
+![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atefoub&show_icons=true&theme=tokyonight)
+
 
 
 
