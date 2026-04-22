@@ -32,6 +32,11 @@
 
 > 🚀 "La rigueur du chiffre, la créativité du code."
 
+> ## 📊 Mon activité GitHub
+
+![Metrics](https://metrics.lecoq.io/atefoub?template=classic&languages=1&isocalendar=1&followup=1&achievements=1&lines=1)
+
+
 ## 🛠️🤝 Compétences 
 <table><tr>
 <td>
