@@ -34,7 +34,8 @@
 
 ## 📊 Mon activité GitHub
 
-![Metrics](https://metrics.lecoq.io/atefoub?template=classic&base=header,activity,community,repositories,metadata&languages=1&isocalendar=1&followup=1&achievements=1&notable=1&lines=1&habits=1&introduction=1&gists=1)
+![Metrics](https://metrics.lecoq.io/Atefoub?template=classic&languages=1&isocalendar=1&followup=1&achievements=1&lines=1)
+
 
 
 
