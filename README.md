@@ -50,7 +50,8 @@
   <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="120"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+
 
 
 </div>
