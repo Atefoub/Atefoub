@@ -34,7 +34,7 @@
 
 ## 📊 Statistiques GitHub
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atefoub&show_icons=true&theme=tokyonight)
+![Antoine's GitHub stats](https://ghstats.dev/api/card?username=Atefoub&theme=tokyonight)
 
 ## 🛠️🤝 Compétences 
 
